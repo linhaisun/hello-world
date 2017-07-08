@@ -1,4 +1,5 @@
 #include<iostream>
+#include<string>
 using namespace std;
 
 void encrypt(char *key,char *data,char *encrypt);
